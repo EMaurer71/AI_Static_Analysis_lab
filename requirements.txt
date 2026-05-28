@@ -1,0 +1,11 @@
+bandit
+semgrep
+safety
+pylint
+
+numpy
+pandas
+scikit-learn
+
+jupyter
+
